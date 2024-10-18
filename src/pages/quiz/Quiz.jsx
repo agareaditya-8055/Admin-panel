@@ -38,9 +38,14 @@ export default function Quiz() {
         { label: 'Description', field: 'description' },
         { label: 'Questions', field: 'questions' },
         { label: 'Duration', field: 'duration' },
-        { label: 'Difficulty', field: 'difficulty' },
+       
         { label: 'Author', field: 'author' },
     ];
 
-    return <Table data={quizzes} columns={quizColumns} />;
+    const specialQuizColumn = [
+        { label: 'Difficulty', field: 'difficulty' },
+        
+      ]
+
+    return <Table data={quizzes} columns={quizColumns} specialColumns={specialQuizColumn} />;
 }
