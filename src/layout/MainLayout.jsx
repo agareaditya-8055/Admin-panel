@@ -6,6 +6,7 @@ import { NavLink, Outlet } from 'react-router-dom'
 export default function MainLayout() {
 
     const navItems = [
+        { name: "Dashboard", link: "/dashboard", icon: <FaUsers className="w-4 h-4" /> },
         { name: "Candidates", link: "/users", icon: <FaUsers className="w-4 h-4" /> },
         { name: "Quizzes", link: "/quizzes", icon: <FaQuestionCircle className="w-4 h-4" /> },
         { name: "Interview", link: "/interviews", icon: <TbUserScreen className="w-4 h-4" /> },
