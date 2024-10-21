@@ -1,0 +1,222 @@
+[
+    {
+      "userId": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "githubId": "johndoe123",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 85,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1002],
+      "projectsSubmitted": [201]
+    },
+    {
+      "userId": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "githubId": "janesmith456",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 60,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "githubId": "mikejohnson789",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 90,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1003],
+      "projectsSubmitted": [202]
+    },
+    {
+      "userId": 4,
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "githubId": "emilybrown456",
+      "enrolledMockDrives": [1, 2],
+      "mockDriveScore": 75,
+      "passedMockDrive": true,
+      "completedTasks": [1002],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 5,
+      "name": "Chris Lee",
+      "email": "chris.lee@example.com",
+      "githubId": "chrislee789",
+      "enrolledMockDrives": [],
+      "mockDriveScore": 0,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 6,
+      "name": "Anna Davis",
+      "email": "anna.davis@example.com",
+      "githubId": "annadavis123",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 88,
+      "passedMockDrive": true,
+      "completedTasks": [1001],
+      "projectsSubmitted": [201]
+    },
+    {
+      "userId": 7,
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "githubId": "davidwilson789",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 55,
+      "passedMockDrive": false,
+      "completedTasks": [1003],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 8,
+      "name": "Sarah Miller",
+      "email": "sarah.miller@example.com",
+      "githubId": "sarahmiller456",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 92,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1002, 1003],
+      "projectsSubmitted": [201, 202]
+    },
+    {
+      "userId": 9,
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "githubId": "jamestaylor123",
+      "enrolledMockDrives": [],
+      "mockDriveScore": 0,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 10,
+      "name": "Karen White",
+      "email": "karen.white@example.com",
+      "githubId": "karenwhite456",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 73,
+      "passedMockDrive": true,
+      "completedTasks": [1003],
+      "projectsSubmitted": [203]
+    },
+    {
+      "userId": 11,
+      "name": "Kevin Thomas",
+      "email": "kevin.thomas@example.com",
+      "githubId": "kevinthomas789",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 65,
+      "passedMockDrive": false,
+      "completedTasks": [1002],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 12,
+      "name": "Laura Harris",
+      "email": "laura.harris@example.com",
+      "githubId": "lauraharris456",
+      "enrolledMockDrives": [],
+      "mockDriveScore": 0,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 13,
+      "name": "Matthew Lewis",
+      "email": "matthew.lewis@example.com",
+      "githubId": "matthewlewis123",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 82,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1002],
+      "projectsSubmitted": [202]
+    },
+    {
+      "userId": 14,
+      "name": "Patricia Young",
+      "email": "patricia.young@example.com",
+      "githubId": "patriciayoung789",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 58,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 15,
+      "name": "Joshua King",
+      "email": "joshua.king@example.com",
+      "githubId": "joshuaking123",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 95,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1003],
+      "projectsSubmitted": [203]
+    },
+    {
+      "userId": 16,
+      "name": "Olivia Wright",
+      "email": "olivia.wright@example.com",
+      "githubId": "oliviawright456",
+      "enrolledMockDrives": [],
+      "mockDriveScore": 0,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 17,
+      "name": "Sophia Hall",
+      "email": "sophia.hall@example.com",
+      "githubId": "sophiahall789",
+      "enrolledMockDrives": [1, 2],
+      "mockDriveScore": 80,
+      "passedMockDrive": true,
+      "completedTasks": [1002],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 18,
+      "name": "Isabella Lopez",
+      "email": "isabella.lopez@example.com",
+      "githubId": "isabellalopez456",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 78,
+      "passedMockDrive": true,
+      "completedTasks": [1003],
+      "projectsSubmitted": [202]
+    },
+    {
+      "userId": 19,
+      "name": "Ethan Moore",
+      "email": "ethan.moore@example.com",
+      "githubId": "ethanmoore123",
+      "enrolledMockDrives": [1],
+      "mockDriveScore": 55,
+      "passedMockDrive": false,
+      "completedTasks": [],
+      "projectsSubmitted": []
+    },
+    {
+      "userId": 20,
+      "name": "Ava Martin",
+      "email": "ava.martin@example.com",
+      "githubId": "avamartin789",
+      "enrolledMockDrives": [2],
+      "mockDriveScore": 88,
+      "passedMockDrive": true,
+      "completedTasks": [1001, 1002, 1003],
+      "projectsSubmitted": [201, 202, 203]
+    }
+  ]

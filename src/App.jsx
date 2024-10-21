@@ -1,9 +1,11 @@
 import React from 'react'
-import RouteConfig from './Route'
-import "./app.css"
+import RouteConfig from './Routes'
+import "./App.css"
 
-export default function App() {
+const App = () => {
   return (
-    <RouteConfig />
+   <RouteConfig/>
   )
 }
+
+export default App
